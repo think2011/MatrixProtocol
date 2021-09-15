@@ -1,4 +1,4 @@
-# Matrix Protocol - CLOB with sharable liquidity
+# Matrix Protocol - limit order book trading with sharable liquidity
 Project Name: Matrix
 
 Team Name: Hash Pocket Team
@@ -18,7 +18,7 @@ Bitcoin itself has limitations such as its Turing-incomplete scripting system an
 Chia, however, makes all this possible. It makes Coin a first-class citizen and brings Chialisp, which is not as easy to understand as the account model of Ethereum, but this transformation makes UTXO-based DeFi a reality on Chia. As the superset of Lisp, Chialisp brings the advantage of Lisp into Chia’s Smart Coin. The coin set model and Chialisp complement each other.
 
 ### Why CLOB?
-Why do we prefer to achieve CLOB, compared with AMM?
+Why do we prefer to achieve CLOB(Central Limit Order Book), compared with AMM?
 
 Reasons are shown below.
 1. The efficiency of AMM's price discovery is quite low.
