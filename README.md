@@ -2,6 +2,8 @@
 
 <a href="https://discord.gg/bGF7eEAgdR"><img src="https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png" width="250"></a>
 
+[Official Discord Server](https://discord.gg/bGF7eEAgdR)
+
 Project Name: Matrix
 
 Team Name: Hash Pocket Team
